@@ -1,0 +1,25 @@
+body{
+    font-family: 'Cardo', serif;
+}
+p{
+    font-size:24px;
+}
+
+h1 { 
+    text-shadow: 0 0 20px #000000;
+    font-family: 'Italianno', serif;
+    color: yellow
+}
+
+.green {
+    background: rgb(104, 164, 88)
+}
+
+.blue_background {
+    background: rgb(0, 0, 255)
+}
+
+.italianno_bold {
+    font-family: 'Italianno', serif;
+    font-size: 34px;
+}
