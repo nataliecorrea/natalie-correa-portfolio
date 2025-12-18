@@ -178,3 +178,10 @@ body {
     font-weight: bold;
     color:#00612B;
 }
+
+.image-row {
+  display: flex;
+  justify-content: center; /* horizontal centering */
+  align-items: center;     /* vertical centering */
+  min-height: 100vh;       /* full viewport height */
+}
